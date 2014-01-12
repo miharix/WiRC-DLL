@@ -1,0 +1,11 @@
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\bin\Debug\WiRCmk_minimal_demo.exe
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\bin\Debug\WiRCmk_minimal_demo.pdb
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\bin\Debug\simpleWiRC.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\bin\Debug\simpleWiRC.pdb
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\WiRCmk_minimal_demo.minimal.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\WiRCmk_minimal_demo.Properties.Resources.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\WiRCmk_minimal_demo.exe
+C:\Users\i7\Documents\Visual Studio 2010\Projects\WiRCmk_demo\WiRCmk_minimal_demo\obj\x86\Debug\WiRCmk_minimal_demo.pdb

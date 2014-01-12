@@ -1,0 +1,13 @@
+C:\Users\i7\AppData\Local\Temporary Projects\simpleWiRC\bin\Debug\simpleWiRC.dll
+C:\Users\i7\AppData\Local\Temporary Projects\simpleWiRC\bin\Debug\simpleWiRC.pdb
+C:\Users\i7\AppData\Local\Temporary Projects\simpleWiRC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\AppData\Local\Temporary Projects\simpleWiRC\obj\Debug\simpleWiRC.dll
+C:\Users\i7\AppData\Local\Temporary Projects\simpleWiRC\obj\Debug\simpleWiRC.pdb
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\bin\Debug\simpleWiRC.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\bin\Debug\simpleWiRC.pdb
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\simpleWiRC.dll
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\simpleWiRC.pdb
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\simpleWiRC.Properties.Resources.resources
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\i7\Documents\Visual Studio 2010\Projects\simpleWiRC\simpleWiRC\obj\Debug\GenerateResource.write.1.tlog

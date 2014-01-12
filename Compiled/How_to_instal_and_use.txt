@@ -1,0 +1,19 @@
+1. instal SlimDX End User Runtime: http://slimdx.org/download.php (on my test winXP laptop I installed ".NET 4.0 x86" ) -> for Joystic suport in demo application
+
+2. install "wmv9VCMsetup.exe" -> some wmv3 video codec for video recording in demo application
+
+3, copy all in folder "debug" to your computer
+
+3. connect to WiRC or be on the same network as WiRC (if the wirc is connecting to router)
+
+4. run Debug/WiRCmk_demo.exe (My antiwirus "Avast was little anoying so I turned him Off"
+
+6. In the field on the left of "Find WiRC" type your network group (192.168.1.255 for default, WiRC as AccessPoint) (example if your IP is 10.2.3.44 type 10.2.33.255)
+
+7. click "find
+
+8. the wirc(all if there are more) should apear in list left of "Connect"
+
+9. when "try to get back control" turns from green to red you are connected
+
+10 to turn the cammera on -> click "Other check" click "Camera ON" -> before trying to record wait for camera picture

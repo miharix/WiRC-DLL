@@ -1,0 +1,9 @@
+(for dll)
+Document all public functions
+fix losing threads on signal lost
+implement better video record (in dll)
+implement debug output function
+implement "External Out Message" -> how to do a simple test ?
+implement dual/muliple camera at once(is it suported by wirc?)
+
+

@@ -1,0 +1,11 @@
+When I was testing "Change Configuration" this configuration made me "litle" worried:
+
+SSID = Dension WiRC
+Is WPA = checked
+Is Accespoint = checked
+Password = "1234"
+Country code = "SI"
+
+the transmitter did't show on WiFi list, trying to flash using 8G FAT32 didn't worked, the LED was flashing more than 2 hours (The WiRC was on regulated Power Supply), later the USB contained some random? generated but corupted more than 1G file
+Flashing using 8G FAT (FAT16) was the same result
+Finaly flashing using some old 256Mb USB fomated to FAT16 fixed the WiRC

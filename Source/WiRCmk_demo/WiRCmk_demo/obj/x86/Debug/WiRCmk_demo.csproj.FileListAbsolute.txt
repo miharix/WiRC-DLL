@@ -1,0 +1,9 @@
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\bin\Debug\WiRCmk_demo.exe
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\bin\Debug\WiRCmk_demo.pdb
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\WiRCmk_demo.Form1.resources
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\WiRCmk_demo.Properties.Resources.resources
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\WiRCmk_demo.exe
+C:\Users\i7\documents\visual studio 2010\Projects\WiRCmk_demo\WiRCmk_demo\obj\x86\Debug\WiRCmk_demo.pdb

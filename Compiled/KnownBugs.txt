@@ -1,0 +1,2 @@
+threads hang on signal los -> kill the app on the task manager
+some times the "find" wont find the reciwer -> restart the app or klik again (be patient)
