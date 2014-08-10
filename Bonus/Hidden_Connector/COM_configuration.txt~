@@ -1,0 +1,15 @@
+Baund rate: 115200
+Data bits: 8
+Stop bits: 1
+Parity: None
+Handshake: None
+Open for: Reading & Writing
+
+Tested using:
+
+Hardware: "FTDI Basic" (black version from HobbyKing)
+!!! WARNING IT IS A 3.3V COMUNICATION !!!
+!!! USING HK "FTDI Basic" YOU MUST CUT THE JUMPER ON THE BACK SIDE AND SOLDER A NEW ONE, SO YOU CAN WORK ON 3.3V !!!
+!!! IF NOT YOU WILL PROBABLY DAMAGE OR DESTRY THE WiRC !!!
+
+Software: CuteCom (Ubuntu) - on windows try Putty

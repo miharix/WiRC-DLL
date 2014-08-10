@@ -1,0 +1,166 @@
+Start AT91Bootstrap...
+Uncompressing Linux... done, booting the kernel.
+[    0.000000] Linux version 2.6.35.10 (balint@bviragh) (gcc version 4.3.4 (crosstool-NG-1.8.0) ) #3 Tue Oct 11 11:43:20 CEST 2011
+[    0.000000] CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+[    0.000000] CPU: VIVT data cache, VIVT instruction cache
+[    0.000000] Machine: Dension wrc
+[    0.000000] Warning: bad configuration page, trying to continue
+[    0.000000] Memory policy: ECC disabled, Data cache writeback
+[    0.000000] Clocks: PLLA overclocked, 240 MHz
+[    0.000000] Clocks: CPU 240 MHz, master 120 MHz, main 12.000 MHz
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 8128
+[    0.000000] Kernel command line: mem=32M console=ttyS0,115200 root=/dev/mtdblock2 rootfstype=squashfs lpj=598016
+[    0.000000] PID hash table entries: 128 (order: -3, 512 bytes)
+[    0.000000] Dentry cache hash table entries: 4096 (order: 2, 16384 bytes)
+[    0.000000] Inode-cache hash table entries: 2048 (order: 1, 8192 bytes)
+[    0.000000] Memory: 32MB = 32MB total
+[    0.000000] Memory: 29420k/29420k available, 3348k reserved, 0K highmem
+[    0.000000] Virtual kernel memory layout:
+[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+[    0.000000]     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+[    0.000000]     DMA     : 0xffc00000 - 0xffe00000   (   2 MB)
+[    0.000000]     vmalloc : 0xc2800000 - 0xfee00000   ( 966 MB)
+[    0.000000]     lowmem  : 0xc0000000 - 0xc2000000   (  32 MB)
+[    0.000000]     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+[    0.000000]       .init : 0xc0008000 - 0xc001e000   (  88 kB)
+[    0.000000]       .text : 0xc001e000 - 0xc02c4000   (2712 kB)
+[    0.000000]       .data : 0xc02c4000 - 0xc02e0620   ( 114 kB)
+[    0.000000] SLUB: Genslabs=11, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU-based detection of stalled CPUs is disabled.
+[    0.000000] 	Verbose stalled-CPUs detection is disabled.
+[    0.000000] NR_IRQS:192
+[    0.000000] AT91: 96 gpio irqs in 3 banks
+[    0.000000] console [ttyS0] enabled
+[    0.180000] Calibrating delay loop (skipped) preset value.. 119.60 BogoMIPS (lpj=598016)
+[    0.190000] pid_max: default: 32768 minimum: 301
+[    0.190000] Mount-cache hash table entries: 512
+[    0.200000] CPU: Testing write buffer coherency: ok
+[    0.210000] NET: Registered protocol family 16
+[    0.230000] CLK_IFS
+[    0.280000] bio: create slab <bio-0> at 0
+[    0.290000] SCSI subsystem initialized
+[    0.300000] usbcore: registered new interface driver usbfs
+[    0.300000] usbcore: registered new interface driver hub
+[    0.310000] usbcore: registered new device driver usb
+[    0.320000] i2c-gpio i2c-gpio: using pins 39 (SDA) and 40 (SCL)
+[    0.330000] Advanced Linux Sound Architecture Driver Version 1.0.23.
+[    0.330000] Switching to clocksource pit
+[    0.350000] NET: Registered protocol family 2
+[    0.350000] IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.360000] TCP established hash table entries: 1024 (order: 1, 8192 bytes)
+[    0.370000] TCP bind hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.370000] TCP: Hash tables configured (established 1024 bind 1024)
+[    0.380000] TCP reno registered
+[    0.380000] UDP hash table entries: 256 (order: 0, 4096 bytes)
+[    0.390000] UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+[    0.400000] NET: Registered protocol family 1
+[    0.410000] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+[    0.410000] JFFS2 version 2.2. (NAND) © 2001-2006 Red Hat, Inc.
+[    0.420000] msgmni has been set to 57
+[    0.420000] io scheduler noop registered
+[    0.430000] io scheduler deadline registered (default)
+[    0.430000] atmel_usart.0: ttyS0 at MMIO 0xfefff200 (irq = 1) is a ATMEL_SERIAL
+[    0.440000] atmel_usart.1: ttyS1 at MMIO 0xfffb4000 (irq = 7) is a ATMEL_SERIAL
+[    0.450000] ssc ssc.1: Atmel SSC device at 0xc2878000 (irq 15)
+[    0.460000] physmap platform flash device: 00400000 at 10000000
+[    0.470000] Found: SST 39VF3201
+[    0.470000] physmap-flash.0: Found 1 x16 devices at 0x0 in 16-bit bank
+[    0.480000] number of JEDEC chips: 1
+[    0.480000] Searching for RedBoot partition table in physmap-flash.0 at offset 0x3f0000
+[    0.500000] 5 RedBoot partitions found on MTD device physmap-flash.0
+[    0.510000] Creating 5 MTD partitions on "physmap-flash.0":
+[    0.510000] 0x000000000000-0x000000010000 : "RedBoot"
+[    0.520000] 0x000000010000-0x000000180000 : "kernel"
+[    0.530000] 0x000000180000-0x000000390000 : "rfs"
+[    0.540000] 0x000000390000-0x0000003f0000 : "config"
+[    0.550000] 0x0000003f0000-0x000000400000 : "FIS directory"
+[    0.560000] atmel_spi atmel_spi.0: Atmel SPI Controller at 0xfffc8000 (irq 12)
+[    0.570000] atmel_spi atmel_spi.1: Atmel SPI Controller at 0xfffcc000 (irq 13)
+[    0.580000] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    0.590000] at91_ohci at91_ohci: AT91 OHCI
+[    0.600000] at91_ohci at91_ohci: new USB bus registered, assigned bus number 1
+[    0.600000] at91_ohci at91_ohci: irq 20, io mem 0x00500000
+[    0.670000] hub 1-0:1.0: USB hub found
+[    0.680000] hub 1-0:1.0: 2 ports detected
+[    0.680000] Initializing USB Mass Storage driver...
+[    0.690000] usbcore: registered new interface driver usb-storage
+[    0.690000] USB Mass Storage support registered.
+[    0.700000] i2c /dev entries driver
+[    0.700000] Linux video capture interface: v2.00
+[    0.710000] gspca: main v2.9.0 registered
+[    0.710000] usbcore: registered new interface driver ov519
+[    0.720000] ov519: registered
+[    0.720000] usbcore: registered new interface driver ov534
+[    0.730000] ov534: registered
+[    0.730000] usbcore: registered new interface driver ov534_9
+[    0.740000] ov534_9: registered
+[    0.740000] usbcore: registered new interface driver pac207
+[    0.750000] pac207: registered
+[    0.750000] usbcore: registered new interface driver pac7302
+[    0.760000] pac7302: registered
+[    0.760000] usbcore: registered new interface driver pac7311
+[    0.770000] pac7311: registered
+[    0.770000] usbcore: registered new interface driver spca500
+[    0.780000] spca500: registered
+[    0.780000] usbcore: registered new interface driver spca501
+[    0.790000] spca501: registered
+[    0.790000] usbcore: registered new interface driver spca505
+[    0.800000] spca505: registered
+[    0.800000] usbcore: registered new interface driver spca506
+[    0.810000] spca506: registered
+[    0.810000] usbcore: registered new interface driver spca508
+[    0.810000] spca508: registered
+[    0.820000] usbcore: registered new interface driver spca561
+[    0.820000] spca561: registered
+[    0.830000] usbcore: registered new interface driver tv8532
+[    0.830000] tv8532: registered
+[    0.840000] usbcore: registered new interface driver vc032x
+[    0.840000] vc032x: registered
+[    0.850000] usbcore: registered new interface driver zc3xx
+[    0.850000] zc3xx: registered
+[    0.860000] usbcore: registered new interface driver uvcvideo
+[    0.860000] USB Video Class driver (v0.1.0)
+[    0.870000] AT91SAM9 Watchdog enabled (heartbeat=15 sec, nowayout=0)
+[    0.880000] cpuidle: using governor ladder
+[    0.880000] cpuidle: using governor menu
+[    0.900000] No device for DAI atmel-ssc0
+[    0.900000] No device for DAI atmel-ssc1
+[    0.910000] No device for DAI atmel-ssc2
+[    0.910000] wrc_codec init!
+[    0.920000] asoc: WM8731 <-> atmel-ssc1 mapping ok
+[    0.930000] ALSA device list:
+[    0.930000]   #0: WRC-BOARD (WM8731)
+[    0.940000] TCP cubic registered
+[    0.940000] NET: Registered protocol family 17
+[    0.950000] VFS: Mounted root (squashfs filesystem) readonly on device 31:2.
+[    0.960000] Freeing init memory: 88K
+[    1.020000] usb 1-2: new full speed USB device using at91_ohci and address 2
+starting pid 260, tty '': '/etc/init.d/rcS'
+[    1.580000] udev: starting version 136
+[    2.340000] Compat-wireless backport release: compat-wireless-2011-10-14
+[    2.340000] Backport based on linux-next.git next-20111025
+Tue Sep  7 12:00:00 UTC 2010
+kernel.panic_on_oops = 1
+Starting logging facilities...
+[    2.910000] cfg80211: Calling CRDA to update world regulatory domain
+WRC revision:275
+
+Please press Enter to activate this console. 
+starting pid 343, tty '/dev/ttyS0': '-/bin/ash'
+/ # ls
+drwxr-xr-x    2 root     root           608 Oct 28  2011 bin
+drwxrwxrwt    6 root     root          1020 Sep  7 12:00 dev
+drwxr-xr-x    6 root     root           303 Oct 28  2011 etc
+drwxr-xr-x    2 root     root             3 Oct 28  2011 home
+drwxr-xr-x    4 root     root           567 Oct 28  2011 lib
+lrwxrwxrwx    1 root     root            11 Oct 28  2011 linuxrc -> bin/busybox
+drwxr-xr-x    4 root     root            40 Oct 28  2011 mnt
+dr-xr-xr-x   49 root     root             0 Jan  1  1970 proc
+drwxr-xr-x    2 root     root             3 Oct 28  2011 root
+drwxr-xr-x    2 root     root           372 Oct 28  2011 sbin
+drwxr-xr-x   11 root     root             0 Jan  1  1970 sys
+drwxrwxrwt   15 root     root           320 Sep  7 12:00 tmp
+drwxr-xr-x    7 root     root            75 Oct 28  2011 usr
+lrwxrwxrwx    1 root     root             5 Oct 28  2011 var -> ./tmp
+/ # 
